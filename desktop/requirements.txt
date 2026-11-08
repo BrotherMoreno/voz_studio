@@ -1,0 +1,6 @@
+gradio>=4.44
+numpy
+scipy
+soundfile
+pedalboard
+imageio-ffmpeg
